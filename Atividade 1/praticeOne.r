@@ -1,7 +1,6 @@
 url <- ("C:/Users/mathe/Downloads/mtcars.csv")
 data <- read.csv(url,  sep = ';', dec = ',', encoding = 'UFT-8', header = TRUE)
 
-View(data)
 
 #1
 
